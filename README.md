@@ -7,9 +7,9 @@ Google Developers Group on Campus Vietnam Hackathon 3rd place-er ⁉
 
 Let's cut to the chase:
 - ⚙️ I code daily in: `.cs`, `.lua`, `.py`, `.sql`, ~~`.lmao`~~(???)
-- ✨ Interests: Data pipelines 📊, DevOps 🖥, and Docker 🐳 
+- ✨ Interests: Data pipelines 📊, DevOps 🖥, and Computer System Engineering 💻
 
-🎇 _Fun fact_: I feel a sense of superiority when my friend ask me what text editor I use (It's `Neovim` with `LazyVim` btw 😛)
+🎇 _Fun fact_: I feel a sense of superiority when my friend ask me what text editor I use (It's `Neovim` with `LazyVim` btw ✖️🖱️)
 
 🎆 _Not-as-fun fact_: I use MacOs, but honestly at this point it looks like someone's sloppy attempt at copying other people and calling it their **"First Rice"** 
 

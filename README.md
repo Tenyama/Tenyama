@@ -6,7 +6,7 @@ Currently a Software Engineering major and a Programmer @ [RMIT University Vietn
 Google Developers Group on Campus Vietnam Hackathon 3rd place-er ⁉
 
 Let's cut to the chase:
-- ⚙️ I code daily in: `.cs`, `.lua`, `.py`, `.sql`, ~~`.lmao`~~(???)
+- ⚙️ I code daily in: `.cs`, `.lua`, `.py`/`.ipynb`
 - ✨ Interests: Data pipelines 📊, System Architecture 🖥, and Computer System Engineering 💻
 
 🎇 _Fun fact_: ThinkPad + Arch + Hyprland (i do not condone any of the creator recent behaviors and statements). Check out [ma dots](https://github.com/Tenyama/dotfiles/tree/arch/endeavouros-config)!!!

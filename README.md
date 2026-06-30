@@ -1,7 +1,7 @@
 ## Hi y'all, I'm Son ✌
 > If you're here either you're hiring, or you're an extreme stalker...
 
-Currently a Software Engineering major and a Programmer @ [RMIT University Vietnam Saigon South](https://www.rmit.edu.vn/vi).
+Currently a final-year Software Engineering major and Dotnet Programmer @ [RMIT University Vietnam Saigon South](https://www.rmit.edu.vn/vi).
 
 Google Developers Group on Campus Vietnam Hackathon 3rd place-er ⁉
 

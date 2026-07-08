@@ -11,7 +11,7 @@ Let's cut to the chase:
 
 🎇 _Fun fact_: ThinkPad + Arch + Hyprland (i do not condone any of the creator recent behaviors and statements). Check out [ma dots](https://github.com/Tenyama/dotfiles/tree/arch/endeavouros-config)!!!
 
-## Languages and Frameworks 
+## Languages 
 
 <div align="left">
   <!-- Programming Languages -->
